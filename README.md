@@ -1,7 +1,5 @@
 ### Hi there 👋
 
----
-
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
